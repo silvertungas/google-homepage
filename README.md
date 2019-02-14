@@ -1,0 +1,1 @@
+This is a shell of the Google home-page with Searchbar.
